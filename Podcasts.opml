@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Sat, 27 Nov 2010 03:34:51 GMT</dateCreated>
+	<dateModified>Sat, 27 Nov 2010 03:34:51 GMT</dateModified>
+</head>
+<body>
+	<outline text="ESPN: PTI" type="rss" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=2406595" htmlUrl="http://sports.espn.go.com/espnradio/podcast/index" />
+	<outline text="MSNBC Rachel Maddow (video)" type="rss" xmlUrl="http://podcast.msnbc.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml" htmlUrl="http://rachel.msnbc.com/" />
+	<outline text="Buzz Out Loud (MP3)" type="rss" xmlUrl="http://feeds.feedburner.com/cnet/buzzoutloud" htmlUrl="http://www.cnet.com/8300-11455_1-10.html" />
+	<outline text="The 404 (MP3)" type="rss" xmlUrl="http://feeds.feedburner.com/the404/" htmlUrl="http://www.cnet.com/8300-13952_1-81.html" />
+	<outline text="The Conversation" type="rss" xmlUrl="http://feeds.feedburner.com/5by5conversation" htmlUrl="http://5by5.tv/conversation" />
+	<outline text="The Big Web Show" type="rss" xmlUrl="http://feeds.feedburner.com/bigwebshow" htmlUrl="http://5by5.tv/bigwebshow" />
+	<outline text="The Dev Show" type="rss" xmlUrl="http://feeds.feedburner.com/thedevshow" htmlUrl="http://5by5.tv/devshow" />
+	<outline text="The Talk Show" type="rss" xmlUrl="http://feeds.feedburner.com/thetalkshow" htmlUrl="http://5by5.tv/talkshow" />
+	<outline text="Diggnation (Quicktime Small)" type="rss" xmlUrl="http://revision3.com/diggnation/feed/quicktime-small/" htmlUrl="http://revision3.com/diggnation" />
+	<outline text="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="http://www.thisamericanlife.org" />
+	<outline text="The Moth Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/themothpodcast" htmlUrl="http://themoth.prx.org" />
+	<outline text="Stuff You Should Know" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" htmlUrl="http://www.howstuffworks.com/" />
+	<outline text="NPR: Planet Money Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney?ft=2&#38;f=510289" />
+	<outline text="WNYC's Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/" />
+	<outline text="Rebooting The News" type="rss" xmlUrl="http://rebootnews.com/feed/" htmlUrl="http://rebootnews.com" />
+	<outline text="Vinyl Cafe Stories from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/vinylcafe.xml" htmlUrl="http://cbc.ca/podcasting" />
+	<outline text="Judge John Hodgman" type="rss" xmlUrl="http://feeds.feedburner.com/todayinthepast" htmlUrl="http://www.maximumfun.org" />
+	<outline text="The Nerdist" type="rss" xmlUrl="http://nerdist.libsyn.com/rss" htmlUrl="http://nerdist.com" />
+	<outline text="Q TV" type="rss" xmlUrl="http://qtv.blip.tv/rss/itunes" htmlUrl="http://qtv.blip.tv" />
+	<outline text="Search Engine" type="rss" xmlUrl="http://feeds.tvo.org/tvo/searchengine" htmlUrl="http://www.tvo.org/searchengine/" />
+	<outline text="The National: At Issue Video Podcast" type="rss" xmlUrl="http://www.cbc.ca/mediafeeds/rss/cbc/atissue-video-podcast.xml" htmlUrl="http://www.cbc.ca/video/#/Shows/The_National/At_Issue" />
+	<outline text="Tech News Today" type="rss" xmlUrl="http://leo.am/podcasts/tnt/" htmlUrl="http://twit.tv/tnt" />
+	<outline text="DNTO" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/dnto.xml" htmlUrl="http://www.cbc.ca/dnto/" />
+	<outline text="CBC: Spark Plus" type="rss" xmlUrl="http://feeds.feedburner.com/cbcradiosparkblog" htmlUrl="http://www.cbc.ca/spark" />
+	<outline text="Quirks &#38; Quarks Complete Show from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/quirksaio.xml" htmlUrl="http://www.cbc.ca/quirks/" />
+	<outline text="MacBreak Weekly" type="rss" xmlUrl="http://leo.am/podcasts/mbw/" htmlUrl="http://twit.tv/mbw" />
+	<outline text="net@night" type="rss" xmlUrl="http://leo.am/podcasts/itn/" htmlUrl="http://twit.tv/natn" />
+	<outline text="Cranky Geeks MP3 Audio" type="rss" xmlUrl="http://rssnewsapps.ziffdavis.com/audioblogs/crankygeeks/cg.audio.xml" htmlUrl="http://www.crankygeeks.com" />
+	<outline text="This Week In Google" type="rss" xmlUrl="http://leo.am/podcasts/twig/" htmlUrl="http://twit.tv/twig" />
+	<outline text="TEDTalks (audio)" type="rss" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" htmlUrl="http://www.ted.com/talks/browse" />
+	<outline text="Slate Magazine Daily Podcast" type="rss" xmlUrl="http://media.slate.com/media/slate/Podcasts/Daily/daily1.xml" htmlUrl="http://www.slate.com/id/2119317/" />
+	<outline text="60 Minutes - Full Audio" type="rss" xmlUrl="http://www.cbsradionewsfeed.com/rss.php?id=90&#38;ud=512" htmlUrl="http://www.cbsradionewsfeed.com/rss.php?id=90" />
+	<outline text="NPR: Wait Wait... Don't Tell Me! Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=35" htmlUrl="http://www.npr.org/templates/rundowns/rundown.php?prgId=35&#38;ft=2&#38;f=35" />
+	<outline text="NPR: Car Talk Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510208" htmlUrl="http://www.cartalk.com?ft=2&#38;f=510208" />
+	<outline text="this WEEK in MEDIA" type="rss" xmlUrl="http://feeds.pixelcorps.com/feeds/twim.xml" htmlUrl="http://pixelcorps.tv/this_week_in_media" />
+	<outline text="Q: The Podcast from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/qpodcast.xml" htmlUrl="http://cbc.ca/podcasting" />
+	<outline text="WireTap from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/wiretap.xml" htmlUrl="http://www.cbc.ca/wiretap" />
+	<outline text="The Dev Show Videos" type="rss" xmlUrl="http://feeds.feedburner.com/devshowvideo" htmlUrl="http://5by5.tv/devshow" />
+	<outline text="Teach Me To Code Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/RailsCoach" htmlUrl="http://teachmetocode.com/podcast" />
+	<outline text="37signals Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/37signals_podcast" htmlUrl="http://www.37signals.com/podcast" />
+	<outline text="The Pipeline" type="rss" xmlUrl="http://feeds.feedburner.com/thepipelineshow" htmlUrl="http://5by5.tv/pipeline" />
+</body>
+</opml>
